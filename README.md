@@ -3,15 +3,13 @@
 Este proyecto es una tienda en línea simple que permite a los usuarios agregar productos a un carrito de compras, visualizar el total de la compra y finalizar la compra. Está desarrollado con HTML, CSS, y JavaScript, utilizando la librería de iconos Font Awesome.
 El JavaScript lo diseñé usando ChatGPT 4o ya que necesitaba buscar la manera de hacer funcionar correctamente el carrito de compras adaptándolo completamente a mis necesidades reduciendo la complejidad en el manejo del DOM y los eventos de todo el código.
 
-## AQUÍ UNA MUESTRA DEL PROYECTO: https://danicentg.github.io/Carrito-de-compras-html-css-js/
+## Aquí una muestra del proyecto: https://danicentg.github.io/Carrito-de-compras-html-css-js/
 
 ## Tabla de Contenidos
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-
 
 ## Características
 - **Interfaz de usuario amigable**: Diseño adaptable y estético para visualizar productos.
@@ -45,14 +43,6 @@ Solo a modo de Ejemplo:
         El ícono del carrito en la esquina superior derecha muestra el número total de productos.
         Al hacer clic en el ícono del carrito, se abrirá un modal que muestra los productos añadidos y el total a pagar.
         Puedes finalizar la compra haciendo clic en el botón "Finalizar compra".
-
-    Estructura del Proyecto:
-        Raiz:
-        .
-        -images/                 # Imágenes de los productos
-        -style.css               # Archivo de estilos
-        -script.js               # Archivo de lógica del carrito
-        -index.html              # Página principal
 
     Descripción de Archivos
 
