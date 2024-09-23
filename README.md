@@ -45,7 +45,7 @@ Solo a modo de Ejemplo:
         Puedes finalizar la compra haciendo clic en el botón "Finalizar compra".
 
     Descripción de Archivos
-
+        images/: Contiene las imágenes
         index.html: Contiene la estructura HTML básica de la tienda y los productos.
         style.css: Define los estilos visuales y la disposición del contenido.
         script.js: Maneja la interacción del usuario con el carrito de compras.
