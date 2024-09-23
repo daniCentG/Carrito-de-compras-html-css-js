@@ -36,13 +36,13 @@ Solo a modo de Ejemplo:
 
 2. Abre el archivo index.html en tu navegador.
 
-    Uso
+## Uso
 
-        Al iniciar el sitio, verás una lista de productos.
-        Puedes agregar productos al carrito haciendo clic en el botón "Agregar al carrito".
-        El ícono del carrito en la esquina superior derecha muestra el número total de productos.
-        Al hacer clic en el ícono del carrito, se abrirá un modal que muestra los productos añadidos y el total a pagar.
-        Puedes finalizar la compra haciendo clic en el botón "Finalizar compra".
+    Al iniciar el sitio, verás una lista de productos.
+    Puedes agregar productos al carrito haciendo clic en el botón "Agregar al carrito".
+    El ícono del carrito en la esquina superior derecha muestra el número total de productos.
+    Al hacer clic en el ícono del carrito, se abrirá un modal que muestra los productos añadidos y el total a pagar.
+    Puedes finalizar la compra haciendo clic en el botón "Finalizar compra".
 
     Descripción de Archivos
         images/: Contiene las imágenes
